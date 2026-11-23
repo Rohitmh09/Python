@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Rohit Mahadik",
+    "age": 21,
+    "gender": "Male",
+    "email": "rohit@example.com",
+    "course": "Computer Science",
+    "year": 3,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Ananya Sharma",
+    "age": 20,
+    "gender": "Female",
+    "email": "ananya@example.com",
+    "course": "Information Technology",
+    "year": 2,
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Arjun Patel",
+    "age": 22,
+    "gender": "Male",
+    "email": "arjun@example.com",
+    "course": "Mechanical Engineering",
+    "year": 4,
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Priya Verma",
+    "age": 19,
+    "gender": "Female",
+    "email": "priya@example.com",
+    "course": "Electronics Engineering",
+    "year": 1,
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "age": 20,
+    "gender": "Male",
+    "email": "karan@example.com",
+    "course": "Civil Engineering",
+    "year": 2,
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Sneha Kulkarni",
+    "age": 21,
+    "gender": "Female",
+    "email": "sneha@example.com",
+    "course": "Computer Science",
+    "year": 3,
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "Vikram Singh",
+    "age": 22,
+    "gender": "Male",
+    "email": "vikram@example.com",
+    "course": "Information Technology",
+    "year": 4,
+    "isActive": false
+  },
+  {
+    "id": 8,
+    "name": "Meera Iyer",
+    "age": 19,
+    "gender": "Female",
+    "email": "meera@example.com",
+    "course": "Mechanical Engineering",
+    "year": 1,
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "name": "Aditya Rao",
+    "age": 20,
+    "gender": "Male",
+    "email": "aditya@example.com",
+    "course": "Electronics Engineering",
+    "year": 2,
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "name": "Kavya Nair",
+    "age": 21,
+    "gender": "Female",
+    "email": "kavya@example.com",
+    "course": "Civil Engineering",
+    "year": 3,
+    "isActive": false
+  },
+  {
+    "id": 11,
+    "name": "Rahul Desai",
+    "age": 22,
+    "gender": "Male",
+    "email": "rahul@example.com",
+    "course": "Computer Science",
+    "year": 4,
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "name": "Ishita Joshi",
+    "age": 19,
+    "gender": "Female",
+    "email": "ishita@example.com",
+    "course": "Information Technology",
+    "year": 1,
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "name": "Manav Gupta",
+    "age": 20,
+    "gender": "Male",
+    "email": "manav@example.com",
+    "course": "Mechanical Engineering",
+    "year": 2,
+    "isActive": true
+  },
+  {
+    "id": 14,
+    "name": "Riya Chawla",
+    "age": 21,
+    "gender": "Female",
+    "email": "riya@example.com",
+    "course": "Electronics Engineering",
+    "year": 3,
+    "isActive": false
+  },
+  {
+    "id": 15,
+    "name": "Siddharth Bose",
+    "age": 22,
+    "gender": "Male",
+    "email": "siddharth@example.com",
+    "course": "Civil Engineering",
+    "year": 4,
+    "isActive": true
+  },
+  {
+    "id": 16,
+    "name": "Neha Kapoor",
+    "age": 19,
+    "gender": "Female",
+    "email": "neha@example.com",
+    "course": "Computer Science",
+    "year": 1,
+    "isActive": true
+  },
+  {
+    "id": 17,
+    "name": "Aarav Shah",
+    "age": 20,
+    "gender": "Male",
+    "email": "aarav@example.com",
+    "course": "Information Technology",
+    "year": 2,
+    "isActive": false
+  },
+  {
+    "id": 18,
+    "name": "Pooja Menon",
+    "age": 21,
+    "gender": "Female",
+    "email": "pooja@example.com",
+    "course": "Mechanical Engineering",
+    "year": 3,
+    "isActive": true
+  },
+  {
+    "id": 19,
+    "name": "Nikhil Reddy",
+    "age": 22,
+    "gender": "Male",
+    "email": "nikhil@example.com",
+    "course": "Electronics Engineering",
+    "year": 4,
+    "isActive": true
+  },
+  {
+    "id": 20,
+    "name": "Tara Fernandes",
+    "age": 19,
+    "gender": "Female",
+    "email": "tara@example.com",
+    "course": "Civil Engineering",
+    "year": 1,
+    "isActive": true
+  }
+]
